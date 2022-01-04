@@ -1,4 +1,5 @@
   ## 👋 Hi, I’m Chandan Jal
   
-- 👀 I’m interested in Web Development and Mobile Development
+- 😃 I love to code. 
+- 💻 I'm interested in Web Devlopment and 📱 Mobile Development
 
